@@ -1,0 +1,4 @@
+experiment,accuracy,precision,recall,f1,roc_auc,train_rows,test_rows
+random_forest,0.8308,0.786159,0.9088,0.843043,0.912492,7500,2500
+logistic_regression,0.8112,0.770891,0.8856,0.824274,0.891552,7500,2500
+baseline_majority_class,0.5,0.0,0.0,0.0,,7500,2500

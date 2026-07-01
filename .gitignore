@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local/raw data
+data/raw/
+
+# Temporary outputs
+*.log
+*.zip
+*.patch
+.pytest_cache/
+.mypy_cache/

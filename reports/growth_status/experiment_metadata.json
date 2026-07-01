@@ -1,0 +1,27 @@
+{
+  "project_focus": "growth_status_classification",
+  "question": "Can simple growth-related measurements classify whether a dog growth record is normal_growth or needs_attention?",
+  "input_path": "data/processed/dog_growth_classification_sample.csv",
+  "target_column": "growth_status_binary",
+  "excluded_leakage_columns": [
+    "bcs_recorded",
+    "bcs_predicted",
+    "bcs_source",
+    "growth_status"
+  ],
+  "numeric_features": [
+    "visit_age_months",
+    "weight_kg",
+    "average_adult_breed_weight_kg",
+    "weight_to_expected_adult_ratio",
+    "weight_age_interaction"
+  ],
+  "categorical_features": [
+    "gender",
+    "preventive_care_visit",
+    "healthy_pet_diagnosis"
+  ],
+  "random_state": 42,
+  "best_experiment": "random_forest",
+  "model_path": "models/growth_status/growth_status_pipeline.joblib"
+}
