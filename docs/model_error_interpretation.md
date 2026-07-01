@@ -27,3 +27,4 @@ The errors suggest that simple tabular growth measurements are useful but incomp
 ## Responsible use
 
 The model output should be treated as an educational signal. It is not a medical conclusion and should not replace expert assessment.
+

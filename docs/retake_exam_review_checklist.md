@@ -99,7 +99,7 @@ Run the smoke test:
 python tests/smoke_test_growth_status_experiment.py
 ```
 
-The generated outputs are saved in:
+The saved outputs are saved in:
 
 ```text
 reports/growth_status/
@@ -116,3 +116,4 @@ notebooks/final_growth_status_classification.ipynb
 ## 12. Repository history
 
 The retake exam guidelines require at least 10 meaningful commits. This repository contains 10+ topic-based commits covering the initial project, documentation, mathematical formulation, dataset validation, error analysis, reproducibility, result summary, and retake notes.
+

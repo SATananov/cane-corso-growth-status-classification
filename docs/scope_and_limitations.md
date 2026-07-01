@@ -1,4 +1,4 @@
-# Scope and Limitations
+﻿# Scope and Limitations
 
 This project is intentionally focused on one classification question. It does not attempt to cover every machine-learning topic from the course.
 
@@ -19,3 +19,4 @@ This project is intentionally focused on one classification question. It does no
 - image classification;
 - private clinical Cane Corso data;
 - broad demonstrations of unrelated ML topics.
+

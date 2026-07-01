@@ -24,3 +24,4 @@ data/processed/dog_growth_classification_sample.csv
 ## Important limitation
 
 The dataset is suitable for an educational classification experiment. It should not be interpreted as a clinical dataset and should not be used for veterinary diagnosis.
+

@@ -24,7 +24,7 @@ The retake version is intentionally limited to:
 - one main notebook;
 - one reproducible experiment script;
 - one smoke test;
-- one set of generated reports.
+- one set of saved report files.
 
 ## Data sources
 
@@ -70,7 +70,7 @@ python src/run_growth_status_experiment.py
 python tests/smoke_test_growth_status_experiment.py
 ```
 
-The project also contains generated reports in:
+The project also contains saved report files in:
 
 ```text
 reports/growth_status/
@@ -79,3 +79,4 @@ reports/growth_status/
 ## Summary
 
 The retake version is not intended to be a broad machine learning portfolio. It is a compact and reproducible supervised classification project built around one concrete question, documented data sources, model comparison, measurable results, error examples, and clear limitations.
+

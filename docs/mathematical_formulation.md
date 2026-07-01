@@ -46,3 +46,4 @@ Random forest combines multiple decision trees. Each tree makes a classification
 The project uses accuracy, precision, recall, F1-score, ROC-AUC, confusion matrix, correct prediction examples, error examples, and borderline examples.
 
 The goal is not only to get a score, but also to understand what the model learns and where it fails.
+

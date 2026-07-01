@@ -1,4 +1,4 @@
-# How the Project Addresses the Feedback
+﻿# How the Project Addresses the Feedback
 
 The previous version was too broad and difficult to follow. This version is intentionally narrower.
 
@@ -32,3 +32,4 @@ src/run_growth_status_experiment.py
 reports/growth_status/experiment_summary.md
 reports/growth_status/error_examples.csv
 ```
+
