@@ -1,4 +1,24 @@
-# Dog Growth Status Classification
+﻿# Dog Growth Status Classification
+
+## Revision focus
+
+This repository is a focused revision of the original broader project.  
+After feedback on the first version, the project was narrowed to one concrete machine learning question:
+
+**Can simple growth-related measurements classify whether a dog growth record is `normal_growth` or `needs_attention`?**
+
+The goal of this version is not to show every machine learning topic from the course.  
+Instead, it presents one readable and reproducible analysis with:
+
+- a clear supervised learning question;
+- a documented data source;
+- defined input features and target label;
+- baseline and trained models;
+- evaluation metrics;
+- confusion matrix;
+- concrete correct, incorrect and borderline prediction examples;
+- a script for reproducing the experiment.
+
 
 This project answers one supervised machine-learning question:
 
@@ -150,3 +170,4 @@ tests/smoke_test_growth_status_experiment.py
 - The target is a processed educational label, not a medical truth.
 - The model uses simple tabular features only.
 - The result is useful for course analysis and reproducible ML practice, not for veterinary decision-making.
+
