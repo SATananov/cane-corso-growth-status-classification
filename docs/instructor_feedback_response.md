@@ -2,6 +2,8 @@
 
 This document explains how the retake version responds to the previous project feedback.
 
+The first version interpreted the course project too broadly by trying to connect several machine learning ideas with a personal project context. In this retake version, I used the feedback to narrow the work to one concrete supervised classification question, one dataset, one reproducible experiment and one clear evaluation path.
+
 ## Original issue
 
 The first version of the project was too broad and difficult to follow. It looked more like a portfolio of machine learning topics than one focused analysis.
@@ -79,4 +81,5 @@ reports/growth_status/
 ## Summary
 
 The retake version is not intended to be a broad machine learning portfolio. It is a compact and reproducible supervised classification project built around one concrete question, documented data sources, model comparison, measurable results, error examples, and clear limitations.
+
 
