@@ -172,20 +172,10 @@ tests/smoke_test_growth_status_experiment.py
 - The result is useful for course analysis and reproducible ML practice, not for veterinary decision-making.
 
 
-## Retake exam review checklist
-
-For a compact mapping between the project and the retake review questions, see:
-
-```text
-docs/retake_exam_review_checklist.md
-```
-
-
 ## Response to previous feedback
 
 The retake version includes a short explanation of how the project was refocused after the previous review:
 
 ```text
-docs/instructor_feedback_response.md
 ```
 
